@@ -2,6 +2,7 @@
 
 [![Run on multiple OS](https://github.com/gretamiller/ci-course/actions/workflows/os-tests.yml/badge.svg)](https://github.com/gretamiller/ci-course/actions/workflows/os-tests.yml)
 
+[![Coverage](https://github.com/gretamiller/ci-course/actions/workflows/coverage.yml/badge.svg)](https://github.com/gretamiller/ci-course/actions/workflows/coverage.yml)
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
